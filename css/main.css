@@ -6,7 +6,7 @@ body {
 p, {
 	background: hotpink;
 	color: deepskyblue;
-	padding: 3px;
+	padding: 3px 3px 3px 3px;
 }
 
 li, a {
