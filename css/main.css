@@ -3,11 +3,11 @@ body {
 	font-family: Brush Script MT, cursive;
 }
 
-p, li {
+p, {
 	color: deepskyblue;
 }
 
-a {
+li, a {
 	color: fuchsia;
 }
 	
